@@ -1,4 +1,4 @@
-![App added to docker compose](https://github.com/user-attachments/assets/684c978c-478d-4e6d-a170-4e465364ea88)#### This project is for the Devops bootcamp exercise for 
+#### This project is for the Devops bootcamp exercise for 
 #### "Containers - Docker" 
 
 
